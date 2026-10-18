@@ -1,1 +1,11 @@
 .DS_Store
+# Python environment and cache
+.venv/
+__pycache__/
+
+# Large datasets
+assignment-2-text-preprocessing/Reviews.csv
+assignment-2-text-preprocessing/cleaned_reviews.csv
+
+# macOS files
+.DS_Store
